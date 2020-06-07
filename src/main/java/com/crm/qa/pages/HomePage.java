@@ -32,6 +32,10 @@ public class HomePage extends TestBase {
 		loginBtn.click();
 	}
 	
+	public void onlyTest(){
+	System.out.println("My new test 1");
+	}
+	
 
 	
 
